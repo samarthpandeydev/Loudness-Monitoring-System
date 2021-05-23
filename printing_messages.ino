@@ -11,9 +11,9 @@
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"
-#define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "123researcher"
-#define AIO_KEY         "aio_UEfe314gBOCxXFRjXhI6TxVzHWrV"
+#define AIO_SERVERPORT  1883                   // here write the username
+#define AIO_USERNAME    "xxxxxx"
+#define AIO_KEY         "xxxxxx"               //here write the key
 
 /************ Global State (you don't need to change this!) ******************/
 
