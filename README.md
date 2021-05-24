@@ -3,7 +3,7 @@
 This I have build using Bread Board , A simple sound sensor and A NODE MCU Microcontroller.
 This is an IOT Project (IOT stands for Internet Of Things).
 
-Images  and Source to buy:
+Images of the Components used and Source to buy:
 
 1.    Sound Sensor - https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2Fxcluma-Sensor-Module-Detection-Arduino%2Fdp%2FB0716Z28MW&psig=AOvVaw15_3Z3vWiMMf7g9K4lIdPI&ust=1621960688908000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDErcfg4vACFQAAAAAdAAAAABAD
 
